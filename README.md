@@ -1,41 +1,36 @@
-# Olá! Eu sou o Matheus G
 
-<br>
-- 🚀 Hoje trabalho com front-end
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=8600B1&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B;Me+chamo+Matheus!" alt="Typing SVG" /></a>
+</h1>
 
-##
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <a href="https://github.com/Mat-G25/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mat-G25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Mat-G25/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-G25&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </a>
-  </div>
+<div  align="center" >
+  - 🔭 Atualmente estou trabalhando como front-end.
+  <br>
+- 🌱 Atualmente estou estudando typescript.
 </div>
 
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
-<div style="display: inline_block; ">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,tailwind,vscode,git,github" />
 </div>
 
+<h2 align="center" >⚡Stats⚡</h2>
 <br>
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/matheus-guimarães2005">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:matheusgsilva2507@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mat-G25&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+</picture>
 </div>
-
-![Snake animation](https://github.com/Mat-G25/Mat-G25/blob/output/github-contribution-grid-snake.svg)
-
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<br>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=8600B1&center=true&vCenter=true&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o!" alt="Typing SVG" /></a>
+</h1>
