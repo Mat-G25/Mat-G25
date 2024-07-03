@@ -36,4 +36,6 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/Mat-G25/Mat-G25/blob/output/github-contribution-grid-snake.svg)
+
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
